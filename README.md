@@ -1,5 +1,7 @@
 # PostCSS Strip Header Comment
 
+[![npm version](https://img.shields.io/npm/v/postcss-strip-header-comment.svg)](https://www.npmjs.com/package/postcss-strip-header-comment)
+
 A [PostCSS] plugin to strip header comment.
 
 [PostCSS]: https://github.com/postcss/postcss
